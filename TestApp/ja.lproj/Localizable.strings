@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  TestApp
+
+  Created by Apple on 4/1/24.
+  
+*/
+
+"users" = "ユーザー";
+"previous" = "前の";
+"next" = "次";
+"error" = "エラー";
